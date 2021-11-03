@@ -18,7 +18,7 @@
 		"url": "https://b23.tv/vUMYbj"
 	}],
 	"homepage": "https://b23.tv/vUMYbj",
-	"main": "./src/index.js",
+	"main": "./src/app.js",
 	"type": "module",
 	"license": "Apache-2.0",
 	"scripts": {
