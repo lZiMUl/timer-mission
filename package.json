@@ -1,0 +1,47 @@
+{
+	"name": "timer-mission",
+	"description": "Timer-Mission",
+	"version": "1.1.2",
+	"author": {
+		"name": "lZiMUl",
+		"email": "AA2908554069@gmail.com",
+		"url": "https://b23.tv/vUMYbj"
+	},
+	"contributors": [{
+		"name": "lZiMUl",
+		"email": "AA2908554069@gmail.com",
+		"url": "https://b23.tv/vUMYbj"
+	}],
+	"maintainers": [{
+		"name": "lZiMUl",
+		"email": "AA2908554069@gmail.com",
+		"url": "https://b23.tv/vUMYbj"
+	}],
+	"homepage": "https://b23.tv/vUMYbj",
+	"main": "./src/index.js",
+	"type": "module",
+	"license": "Apache-2.0",
+	"scripts": {
+		"test": "node ./tests/index.js",
+		"build": "node ./builds/index.js"
+	},
+	"keywords": [
+		"lZiMUl",
+		"timer",
+		"mission"
+	],
+	"dependencies": {
+		"events": "^3.3.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/lZiMUl/timer-mission.git"
+	},
+	"bugs": {
+		"url": "https://github.com/lZiMUl/timer-mission/issues",
+		"email": "AA2908554069@gmail.com"
+	},
+	"private": false,
+	"preferGlobal": true,
+	"deprecated": false
+}
